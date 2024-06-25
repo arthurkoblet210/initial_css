@@ -1,2 +1,2 @@
-var a = 30;
-var b = 20;
+var a = 9;
+var b = 4;
